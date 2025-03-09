@@ -57,9 +57,6 @@ The famous Iris dataset with:
 - 4 features (sepal length/width, petal length/width)
 - 3 classes (Setosa, Versicolor, Virginica)
 
-## Author
-[Your Name]
-
 ## License
 MIT License
 
@@ -118,9 +115,6 @@ For any questions or suggestions, feel free to reach out via email: masudpythong
 مجموعه داده معروف زنبق شامل:
 - ۴ ویژگی (طول و عرض کاسبرگ، طول و عرض گلبرگ)
 - ۳ کلاس (ستوسا، ورسیکالر، ویرجینیکا)
-
-## سازنده
-[نام شما]
 
 ## مجوز
 MIT لایسنس
