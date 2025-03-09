@@ -23,7 +23,7 @@ An interactive web application for Iris flower classification using Random Fores
 ## Installation
 
 ```bash
-pip install streamlit pandas matplotlib seaborn scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Run Application
